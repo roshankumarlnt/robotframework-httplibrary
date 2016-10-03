@@ -20,6 +20,16 @@
         <robotframework.run.variableFile></robotframework.run.variableFile>
         <robotframeowrk.run.randomize>suite</robotframeowrk.run.randomize>
     </properties>
+	
+	<repositories>
+    		
+    	<repository>
+          <id>java.net</id>
+          <url>https://maven.java.net/content/repositories/public/</url>
+        </repository>
+        
+    </repositories>
+
 
     <dependencies>
 		<dependency>
